@@ -24,6 +24,10 @@
  <h3>Twitter:</h3>
  
  - @ghostzzq
+
+<h3>Linkedin:</h3>
+
+- https://www.linkedin.com/in/victor-eduardo-dias-pavesi-a92376218
  
  
  <h3>Me contate! </h3>
