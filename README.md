@@ -24,6 +24,11 @@
  <h3>Twitter:</h3>
  
  - @ghostzzq
+ 
+ 
+ <h3>Me contate! </h3>
+ 
+ - victoreduardoszprgn@gmail.com
 
 <!---
 ghosttzz/ghosttzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
