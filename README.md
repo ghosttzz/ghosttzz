@@ -10,7 +10,7 @@
 - HTML5 
 - CSS3 
 - Algoritmo
-- JavaScritp
+- JavaScript
 - Python 
 
 <h3>A Completar/Iniciar:</h3>
