@@ -1,7 +1,7 @@
- <h2>Buenas notches!</h2>
+ <h2>Boa noite!</h2>
 
 
-- Sou Victor, tenho 15 anos e sou apaixonado em tecnologia e cultura pop!
+- Sou Victor, tenho 16 anos e sou apaixonado em tecnologia e cultura pop!
 - Sinta-se a vontade para visitar meus repositórios e projetos!!
 
 
@@ -9,12 +9,15 @@
 
 - HTML5 
 - CSS3 
-- Algoritmo 
+- Algoritmo
+-JavaScritp
+-Python 
 
 <h3>A Completar/Iniciar:</h3>
 
-- JavaScript
+- Python avançado
 - Java
+-GitHub avançado
 
 
  <h3>Discord:</h3>
