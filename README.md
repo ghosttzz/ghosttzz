@@ -11,13 +11,14 @@
 - CSS3 
 - Algoritmo
 - JavaScript
-- Python 
+- Node JS
+- Angular
+- Python Intermediario e Básico
 
 <h3>A Completar/Iniciar:</h3>
 
-- Python avançado
 - Java
--GitHub avançado
+- GitHub avançado
 
 
  <h3>Discord:</h3>
