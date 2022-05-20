@@ -10,6 +10,7 @@
 - HTML5 
 - CSS3 
 - Algoritmo
+- Logica de Programação
 - JavaScript
 - Node JS
 - Angular
