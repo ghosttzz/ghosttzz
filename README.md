@@ -1,34 +1,17 @@
  <h2>Boa noite!</h2>
 
 
-- Sou Victor, tenho 16 anos e sou apaixonado em tecnologia e cultura pop!
+- Sou Victor, tenho 18 anos e sou apaixonado em tecnologia e cultura pop!
 - Sinta-se a vontade para visitar meus repositórios e projetos!!
 
 
-<h3> Cursos Completos:</h3>
+<h3> Area de Conhecimento:</h3>
 
-- HTML5 
-- CSS3 
-- Algoritmo
-- Logica de Programação
+- Python
 - JavaScript
-- Node JS
-- Angular
-- Python Intermediario e Básico
+- Testes Automatizados ( Cypress and k6)
+- Qualidade e seus processos
 
-<h3>A Completar/Iniciar:</h3>
-
-- Java
-- GitHub avançado
-
-
- <h3>Discord:</h3>
- 
-- ghostt#6534
-
- <h3>Twitter:</h3>
- 
- - @ghostzzq
 
 <h3>Linkedin:</h3>
 
